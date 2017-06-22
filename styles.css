@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image:url("img/kanye-west_runaway.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+#header{
+	background-color: #323232;
+	padding: 35px 28px ;
+	display: flex;
+	justify-content: space-around;
+	float: center;
+	opacity: 0.9;
+		}
+a{
+
+    font-family: 'Pacifico', cursive;
+    color: black;
+    text-align: none;
+}
+p{
+	   color: white;
+    font-family: 'Fanwood Text', serif;
+    text-align: justify;
+    font-size: 20px;
+    padding: 0 251px;
+    margin-right: 287px;
+    position: absolute;
+}
+}
+
+/*.sectionimg
+{
+	height: 50%	
+	width: 50%;
+}
+.slide
+{
+	
+}
+footer {
+	position: absolute; bottom: 0; left: 0; right: 0
+		}
+#conteneur
+{
+	display: flex;
+	flex:nowrap;
+	justify-content: space-around;
+}
+.element
+{
+	display: flex;
+	flex:nowrap;
+	justify-content: space-around;
+	}*/
